@@ -1,0 +1,47 @@
+# Introduction
+# A Whole game
+
+Get the readers' hands dirty with a simple example. Give a sense of what a typical ACA scenerio looks like. And use that in the next chapter to illustrate the best practice.
+
+# From theory to ACA, back to theory
+## Content analysis
+
+As a super express summary of Krippendorff and Neuendorf.
+
+## Automated content analysis
+
+What the current literature says about ACA.
+
+## Best practice
+
+* Validation
+* Confirmatory / exploratory
+* Methodological transparency
+
+# Creating gold standard & validation
+
+* avocate a workflow of making gold standard first!
+
+# Typical automated content analytic methods
+## dictionary-based method
+
+* how it works
+* off-the-shelf
+* creating domain specific one
+
+### validation
+
+* suggestions
+
+## topic-model
+
+### validation
+
+* daniel maier / Chang
+
+# Advance
+## embeddings
+## semantic network
+## machine learning
+## multimodal analysis
+## crosslingual analysis
